@@ -31,8 +31,9 @@ cd react-landing-page
 3. Install dependencies from `package.json`.
 ```sh
 pnpm install
-
-# or
+```
+or
+```sh
 npm i
 ```
 
